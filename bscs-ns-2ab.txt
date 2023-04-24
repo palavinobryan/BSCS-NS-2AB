@@ -1,3 +1,13 @@
 Hello World!
 Hello BSCS-NS-2AB
 Hi
+
+#include<stdio.h>
+
+int main()
+{
+    printf("Hello World")
+
+    return 0;
+
+}
